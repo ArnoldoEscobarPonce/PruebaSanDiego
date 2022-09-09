@@ -1,0 +1,7 @@
+E:\CodigoFuente\Cod_SIF\Prueba_San_Diego\SanDiegoDAL\bin\Debug\SanDiegoDAL.dll
+E:\CodigoFuente\Cod_SIF\Prueba_San_Diego\SanDiegoDAL\bin\Debug\SanDiegoDAL.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_San_Diego\SanDiegoDAL\bin\Debug\SanDiegoBE.dll
+E:\CodigoFuente\Cod_SIF\Prueba_San_Diego\SanDiegoDAL\bin\Debug\SanDiegoBE.pdb
+E:\CodigoFuente\Cod_SIF\Prueba_San_Diego\SanDiegoDAL\obj\Debug\SanDiegoDAL.csprojResolveAssemblyReference.cache
+E:\CodigoFuente\Cod_SIF\Prueba_San_Diego\SanDiegoDAL\obj\Debug\SanDiegoDAL.dll
+E:\CodigoFuente\Cod_SIF\Prueba_San_Diego\SanDiegoDAL\obj\Debug\SanDiegoDAL.pdb

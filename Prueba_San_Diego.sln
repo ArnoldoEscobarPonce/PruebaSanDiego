@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanDiegoWEB", "SanDiegoWEB\SanDiegoWEB.csproj", "{C5F5993D-86BF-49BF-BF35-2C63CD97A659}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Querys", "Querys", "{CE66C803-0B42-48B3-B5E1-4A7AE8E94475}"
+	ProjectSection(SolutionItems) = preProject
+		Ejercicio_1.sql = Ejercicio_1.sql
+		Ejercicio_2.sql = Ejercicio_2.sql
+		Ejercicio_3.sql = Ejercicio_3.sql
+		Ejercicio_4.sql = Ejercicio_4.sql
+		Evaluación_San_Diego.docx = Evaluación_San_Diego.docx
+		Productos.xlsx = Productos.xlsx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanDiegoApi", "SanDiegoApi\SanDiegoApi.csproj", "{B703E8A2-C73B-41E2-87CB-CBC0550456DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanDiegoBE", "SanDiegoBE\SanDiegoBE.csproj", "{EEFFD83B-A15C-4541-8F1D-EBB5AF39A428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanDiegoDAL", "SanDiegoDAL\SanDiegoDAL.csproj", "{2711B00D-0E1C-42D8-B02B-5389866870FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanDiegoBLL", "SanDiegoBLL\SanDiegoBLL.csproj", "{B76F2228-052A-4864-9913-68ABDCFDFA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F5993D-86BF-49BF-BF35-2C63CD97A659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F5993D-86BF-49BF-BF35-2C63CD97A659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F5993D-86BF-49BF-BF35-2C63CD97A659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F5993D-86BF-49BF-BF35-2C63CD97A659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B703E8A2-C73B-41E2-87CB-CBC0550456DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B703E8A2-C73B-41E2-87CB-CBC0550456DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B703E8A2-C73B-41E2-87CB-CBC0550456DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B703E8A2-C73B-41E2-87CB-CBC0550456DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFFD83B-A15C-4541-8F1D-EBB5AF39A428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFFD83B-A15C-4541-8F1D-EBB5AF39A428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFFD83B-A15C-4541-8F1D-EBB5AF39A428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFFD83B-A15C-4541-8F1D-EBB5AF39A428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2711B00D-0E1C-42D8-B02B-5389866870FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2711B00D-0E1C-42D8-B02B-5389866870FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2711B00D-0E1C-42D8-B02B-5389866870FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2711B00D-0E1C-42D8-B02B-5389866870FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76F2228-052A-4864-9913-68ABDCFDFA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76F2228-052A-4864-9913-68ABDCFDFA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76F2228-052A-4864-9913-68ABDCFDFA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76F2228-052A-4864-9913-68ABDCFDFA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4406ACCF-1ADC-4D37-BA4A-EE964652311A}
+	EndGlobalSection
+EndGlobal
